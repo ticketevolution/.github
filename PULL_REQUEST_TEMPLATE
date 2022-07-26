@@ -1,0 +1,30 @@
+Jira: [JIRA-TOKEN](https://ticketevolution.atlassian.net/browse/JIRA-TOKEN)
+
+## Why / What
+
+This PR adds/removes/fixes&hellip;
+
+## Testing
+
+I tested this code by&hellip;
+
+## Reviewer Checklist (To be edited and marked by approver)
+
+After approving the PR, the reviewer should edit this description to check the boxes below with `[x]`. See the [Reviewer Checklist](https://ticketevolution.atlassian.net/wiki/spaces/EN/pages/3015016552/Reviewer+Checklist) company standard for more info on these bullet points.
+
+- [ ] Do you understand the reasoning behind the need for the changes?
+- [ ] Given only new or existing tests*, do you feel confident that all changes work as intended and solve the problem at hand?
+- [ ] Are all success and failure paths accounted for in the tests? If not, are the omissions explained/justified?
+- [ ] If coverage ignores are present, is justification provided inline (or linked to) or is a link to a ticket to address in the future provided?
+- [ ] Are you willing to accept the same responsibility for this code as the author?
+
+*\*If existing tests, requester should point out what applies*
+
+## PR Code Coverage (TEvo 2.0 Apps)
+
+- Changeset: XX%
+- Overall: XX%
+
+Measure with `bin/test_cov`. You can find html coverage levels in `coverage/index.html` or in `stdout`.
+
+After a successful test run, you can also see calculated and merged coverage, per branch, on [Grafana](https://grafana.tevo.com/d/6r9OX0y7k/code-coverage?orgId=1)
