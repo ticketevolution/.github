@@ -20,11 +20,11 @@ After approving the PR, the reviewer should check the boxes below. See the [Revi
 
 *\*If existing tests, requester should point out what applies*
 
-## PR Code Coverage (TEvo 2.0 Apps)
+## PR Code Coverage
 
 - Changeset: XX%
 - Overall: XX%
 
-Measure with `bin/test_cov`. You can find html coverage levels in `coverage/index.html` or in `stdout`.
+Measure with `bin/test_cov` or some other means. You can find html coverage levels in `coverage/index.html` or in `stdout`.
 
 After a successful test run, you can also see calculated and merged coverage, per branch, on [Grafana](https://grafana.tevo.com/d/6r9OX0y7k/code-coverage?orgId=1)
