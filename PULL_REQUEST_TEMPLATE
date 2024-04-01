@@ -1,7 +1,7 @@
 Jira: [JIRA-TOKEN](https://ticketevolution.atlassian.net/browse/JIRA-TOKEN)
 
 > [!IMPORTANT]
-> Toggle to SQUASH AND MERGE when merging PRs to `staging` branch
+> Toggle to **Squash and Merge** when merging PRs to `staging` branch
 
 ## Why / What
 Why: These changes are for...
