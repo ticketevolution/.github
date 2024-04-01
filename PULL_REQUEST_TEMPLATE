@@ -3,17 +3,15 @@ Jira: [JIRA-TOKEN](https://ticketevolution.atlassian.net/browse/JIRA-TOKEN)
 > [!IMPORTANT]
 > Toggle to **Squash and Merge** when merging PRs to `staging` branch
 
-## Why / What
-Why: These changes are for...
-
-What: This PR adds/removes/fixes... 
+## What
+This PR adds/removes/fixes&hellip;
 
 If this PR requires other developers to make changes to their local environment after this PR has been merged, please
 describe here. Examples: DB migration, Docker container restart/rebuild, .env changes etc.
 
 ## Testing
 
-I tested this code by (unit/integration/manual) testing...
+I tested this code by (unit/integration/manual) testing&hellip;
 
 ## Environment Variables
 
