@@ -6,9 +6,6 @@ Jira: [JIRA-TOKEN](https://ticketevolution.atlassian.net/browse/JIRA-TOKEN)
 ## What
 This PR adds/removes/fixes&hellip;
 
-If this PR requires other developers to make changes to their local environment after this PR has been merged, please
-describe here. Examples: DB migration, Docker container restart/rebuild, .env changes etc.
-
 ## Testing
 
 I tested this code by (unit/integration/manual) testing&hellip;
