@@ -12,7 +12,7 @@ I tested this code by (unit/integration/manual) testing&hellip;
 
 ## Extras
 - [ ] Includes a DB migration
-- [ ] PR requires other developers to make changes to their local environment after this PR has been merged: Examples: docker container restart/rebuild, .env changes
+- [ ] After merge, requires local environment changes like running `bin/build`, `.env` changes etc.
 - [ ] Includes UI Changes: add screenshots or videos
 
 _(if any are checked, please describe below)_
