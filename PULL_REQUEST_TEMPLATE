@@ -13,18 +13,12 @@ describe here. Examples: DB migration, Docker container restart/rebuild, .env ch
 
 I tested this code by (unit/integration/manual) testing&hellip;
 
-## Environment Variables
+## Extras
+- [ ] Includes a DB migration
+- [ ] PR requires other developers to make changes to their local environment after this PR has been merged: Examples: docker container restart/rebuild, .env changes
+- [ ] Includes UI Changes: add screenshots or videos
 
-If there are any changes to environment variables, list here and link any relevant `tevo-kubernetes` PRs. Update the 
-project's .env file in 1Password after PR has been merged if necessary.
-
-## Database
-
-If any DB changes, describe here. Add DBAs to the PR reviewers to approve DB migrations
-
-## UI
-
-If this PR has visual changes, add screenshots or videos here
+_(if any are checked, please describe below)_
 
 ## PR Code Coverage
 
