@@ -1,24 +1,21 @@
 Jira: [JIRA-TOKEN](https://ticketevolution.atlassian.net/browse/JIRA-TOKEN)
 
-## Why / What
+> [!IMPORTANT]
+> Toggle to **Squash and Merge** when merging PRs to `staging` branch
 
+## What
 This PR adds/removes/fixes&hellip;
 
 ## Testing
 
-I tested this code by&hellip;
+I tested this code by (unit/integration/manual) testing&hellip;
 
-## Reviewer Checklist (To be edited and marked by approver)
+## Extras
+- [ ] Includes a DB migration
+- [ ] After merge, requires local environment changes like running `bin/build`, `.env` changes etc.
+- [ ] Includes UI Changes: add screenshots or videos
 
-After approving the PR, the reviewer should check the boxes below. See the [Reviewer Checklist](https://ticketevolution.atlassian.net/wiki/spaces/EN/pages/3015016552/Reviewer+Checklist) company standard for more info on these bullet points.
-
-- [ ] Do you understand the reasoning behind the need for the changes?
-- [ ] Given only new or existing tests*, do you feel confident that all changes work as intended and solve the problem at hand?
-- [ ] Are all success and failure paths accounted for in the tests? If not, are the omissions explained/justified?
-- [ ] If coverage ignores are present, is justification provided inline (or linked to) or is a link to a ticket to address in the future provided?
-- [ ] Are you willing to accept the same responsibility for this code as the author?
-
-*\*If existing tests, requester should point out what applies*
+_(if any are checked, please describe below)_
 
 ## PR Code Coverage
 
